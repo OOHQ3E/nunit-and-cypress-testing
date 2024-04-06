@@ -1,0 +1,14 @@
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\bin\Debug\AFP_UnitTest.exe.config
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\bin\Debug\AFP_UnitTest.exe
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\bin\Debug\AFP_UnitTest.pdb
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\obj\Debug\AFP_UnitTest.csproj.AssemblyReference.cache
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\obj\Debug\AFP_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\obj\Debug\AFP_UnitTest.exe
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\B_kurzus_UnitTest\B_kurzus_UnitTest\obj\Debug\AFP_UnitTest.pdb
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\bin\Debug\AFP_UnitTest.exe.config
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\bin\Debug\AFP_UnitTest.exe
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\bin\Debug\AFP_UnitTest.pdb
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\obj\Debug\AFP_UnitTest.csproj.AssemblyReference.cache
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\obj\Debug\AFP_UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\obj\Debug\AFP_UnitTest.exe
+C:\Users\Gabor\Desktop\nunit-and-cypress-testing\AFP_UnitTest\AFP_UnitTest\obj\Debug\AFP_UnitTest.pdb

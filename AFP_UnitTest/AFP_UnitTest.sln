@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulatorUnitTest", "StringManipulatorUnitTest\StringManipulatorUnitTest.csproj", "{7B41EFC1-4637-4057-A8D5-38C153E65A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AFP_UnitTest", "AFP_UnitTest\AFP_UnitTest.csproj", "{E71421C3-63FD-4963-A45B-A11DDD2E33CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B41EFC1-4637-4057-A8D5-38C153E65A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B41EFC1-4637-4057-A8D5-38C153E65A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B41EFC1-4637-4057-A8D5-38C153E65A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B41EFC1-4637-4057-A8D5-38C153E65A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71421C3-63FD-4963-A45B-A11DDD2E33CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71421C3-63FD-4963-A45B-A11DDD2E33CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71421C3-63FD-4963-A45B-A11DDD2E33CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71421C3-63FD-4963-A45B-A11DDD2E33CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66B2C8CD-2437-4D53-AB6A-B94B9707A71E}
+	EndGlobalSection
+EndGlobal
